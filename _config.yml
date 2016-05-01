@@ -1,0 +1,28 @@
+name: HarranMusic
+favicon: null
+layout_spectrum: 0.34805674524977803
+typography_spectrum: 0.6197395543567836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9307466866448522
+  lightness: 0.41912768105976284
+  saturation: 0.8663307286333293
+  rhythmicContrast: 0.8243185528554022
+purpose: []
